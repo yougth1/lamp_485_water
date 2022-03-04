@@ -1,0 +1,15 @@
+--cpu Cortex-M0+
+".\objects\adc.o"
+".\objects\bt.o"
+".\objects\clk.o"
+".\objects\ddl.o"
+".\objects\gpio.o"
+".\objects\uart.o"
+".\objects\main.o"
+".\objects\startup_hc32l110b4pa.o"
+".\objects\interrupts_hc32l110.o"
+".\objects\system_hc32l110b4pa.o"
+--strict --scatter ".\Objects\hc32l110b4pa.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\hc32l110b4pa.map" -o .\Objects\hc32l110b4pa.axf

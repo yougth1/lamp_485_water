@@ -1,0 +1,177 @@
+Dependencies for Project 'hc32l110b4pa', Target 'hc32l110b4pa': (DO NOT MODIFY !)
+F (..\user\adc.c)(0x617272F7)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (E:\dev\ludeng\HC32L110B4PA\user\adc.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)
+F (..\user\bt.c)(0x5ECDF70F)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\bt.o --omf_browse .\objects\bt.crf --depend .\objects\bt.d)
+I (E:\dev\ludeng\HC32L110B4PA\user\bt.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)
+F (..\user\clk.c)(0x5ECDF915)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)
+F (..\user\ddl.c)(0x61776DE7)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\ddl.o --omf_browse .\objects\ddl.crf --depend .\objects\ddl.d)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)
+F (..\user\gpio.c)(0x5ECDF70F)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)
+F (..\user\uart.c)(0x61776F76)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)
+F (..\user\main.c)(0x617798C0)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)
+I (E:\dev\ludeng\HC32L110B4PA\user\adc.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\user\bt.h)(0x5ECDF70F)
+F (..\system\startup_hc32l110b4pa.s)(0x5B9B0D32)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include--list .\listings\startup_hc32l110b4pa.lst --xref -o .\objects\startup_hc32l110b4pa.o --depend .\objects\startup_hc32l110b4pa.d)
+F (..\system\interrupts_hc32l110.c)(0x617654D4)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\interrupts_hc32l110.o --omf_browse .\objects\interrupts_hc32l110.crf --depend .\objects\interrupts_hc32l110.d)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)
+F (..\system\system_hc32l110b4pa.c)(0x61764AFF)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\user -I..\system-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I Device\Include-o .\objects\system_hc32l110b4pa.o --omf_browse .\objects\system_hc32l110b4pa.crf --depend .\objects\system_hc32l110b4pa.d)
+I (E:\dev\ludeng\HC32L110B4PA\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x00000000)
+I (E:\dev\ludeng\HC32L110B4PA\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\system\core_cm0plus.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_version.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_compiler.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\cmsis_armcc.h)(0x60D3E8E2)
+I (E:\dev\ludeng\HC32L110B4PA\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl.h)(0x61765340)
+I (E:\dev\ludeng\HC32L110B4PA\user\clk.h)(0x5ECDF70F)
+I (E:\dev\ludeng\HC32L110B4PA\system\interrupts_hc32l110.h)(0x61764FDA)
+I (E:\dev\ludeng\HC32L110B4PA\user\gpio.h)(0x5ECDF837)
+I (E:\dev\ludeng\HC32L110B4PA\user\uart.h)(0x61776FDB)
+I (E:\dev\ludeng\HC32L110B4PA\user\ddl_device.h)(0x5F2386F8)

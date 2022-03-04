@@ -1,0 +1,178 @@
+Dependencies for Project 'hc32l110b4pa', Target 'hc32l110b4pa': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (..\user\adc.c)(0x617272F7)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (..\user\adc.h)(0x5ECDF70F)
+I (..\user\ddl.h)(0x61765340)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl_device.h)(0x5F2386F8)
+F (..\user\bt.c)(0x5ECDF70F)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\bt.o --omf_browse .\objects\bt.crf --depend .\objects\bt.d)
+I (..\user\bt.h)(0x5ECDF70F)
+I (..\user\ddl.h)(0x61765340)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl_device.h)(0x5F2386F8)
+F (..\user\clk.c)(0x5ECDF915)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\user\ddl.h)(0x61765340)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl_device.h)(0x5F2386F8)
+F (..\user\ddl.c)(0x61776DE7)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\ddl.o --omf_browse .\objects\ddl.crf --depend .\objects\ddl.d)
+I (..\user\ddl.h)(0x61765340)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl_device.h)(0x5F2386F8)
+F (..\user\gpio.c)(0x5ECDF70F)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\user\ddl.h)(0x61765340)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl_device.h)(0x5F2386F8)
+F (..\user\uart.c)(0x61776F76)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl.h)(0x61765340)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\user\ddl_device.h)(0x5F2386F8)
+F (..\user\main.c)(0x6221BF32)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\user\ddl.h)(0x61765340)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl_device.h)(0x5F2386F8)
+I (..\user\adc.h)(0x5ECDF70F)
+I (..\user\bt.h)(0x5ECDF70F)
+F (..\system\startup_hc32l110b4pa.s)(0x5B9B0D32)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include--pd "__UVISION_VERSION SETA 536"--list .\listings\startup_hc32l110b4pa.lst --xref -o .\objects\startup_hc32l110b4pa.o --depend .\objects\startup_hc32l110b4pa.d)
+F (..\system\interrupts_hc32l110.c)(0x617654D4)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\interrupts_hc32l110.o --omf_browse .\objects\interrupts_hc32l110.crf --depend .\objects\interrupts_hc32l110.d)
+I (..\user\ddl.h)(0x61765340)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl_device.h)(0x5F2386F8)
+F (..\system\system_hc32l110b4pa.c)(0x61764AFF)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\system_hc32l110b4pa.o --omf_browse .\objects\system_hc32l110b4pa.crf --depend .\objects\system_hc32l110b4pa.d)
+I (..\system\base_types.h)(0x59F9695E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (d:\Keil_v5\ARM\ARMCC\include\assert.h)(0x60252378)
+I (..\system\hc32l110b4pa.h)(0x5B9B0D32)
+I (..\system\core_cm0plus.h)(0x60D3E8E2)
+I (..\system\cmsis_version.h)(0x60D3E8E2)
+I (..\system\cmsis_compiler.h)(0x60D3E8E2)
+I (..\system\cmsis_armcc.h)(0x60D3E8E2)
+I (..\system\system_hc32l110b4pa.h)(0x5B9B0D32)
+I (..\user\ddl.h)(0x61765340)
+I (..\user\clk.h)(0x5ECDF70F)
+I (..\system\interrupts_hc32l110.h)(0x61764FDA)
+I (..\user\gpio.h)(0x5ECDF837)
+I (..\user\uart.h)(0x61776FDB)
+I (..\user\ddl_device.h)(0x5F2386F8)
