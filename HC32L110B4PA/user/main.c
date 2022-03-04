@@ -60,7 +60,7 @@ void SendGpioData(void)
 {
 	uint16_t data_crc;
     uint8_t u8GpioRlt = 0;
-	uint8_t GpioData[10] = {0x02, 0x03, 0x01};
+	uint8_t GpioData[10] = {0x02, 0x03, 0x02};
 
 	
     u8GpioRlt = GetGpioResult();

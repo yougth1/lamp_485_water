@@ -116,7 +116,7 @@ I (..\user\clk.h)(0x5ECDF70F)
 I (..\system\interrupts_hc32l110.h)(0x61764FDA)
 I (..\user\gpio.h)(0x5ECDF837)
 I (..\user\ddl_device.h)(0x5F2386F8)
-F (..\user\main.c)(0x6221BF32)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (..\user\main.c)(0x6221CE76)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\user -I ..\system-ID:\Keil_v5\pack\HDSC\HC32L110\1.0.3\Device\Include-D__UVISION_VERSION="536"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (..\user\gpio.h)(0x5ECDF837)
 I (..\user\ddl.h)(0x61765340)
 I (..\system\base_types.h)(0x59F9695E)
