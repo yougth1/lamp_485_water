@@ -79,8 +79,9 @@ void SendGpioData(void)
 int main()
 {
     static uint8_t cnt = 0;
-	uint16_t data_crc = 0;
+	uint16_t data_crc = 0;    
 	GpioInit();
+    
 	
 	while(1)
 	{	
@@ -102,6 +103,7 @@ int main()
 			}
             else{
                 if(cnt++ > 0) {
+                    cnt = 0;
                     u8RxFlg = 0;
                     ClearRxData();
                 }
