@@ -73,11 +73,12 @@ void SendGpioData(void)
 //	Gpio_SetIO(2,5,1);
 	Uart1_SendDatas(GpioData, 7);
 //	Gpio_SetIO(2,5,0);
-	ClearRxData();
+//	ClearRxData();
 }
 
 int main()
 {
+    static uint8_t cnt = 0;
 	uint16_t data_crc = 0;
 	GpioInit();
 	
@@ -94,12 +95,21 @@ int main()
                             SendGpioData();
                     }
                 }
+                
+                cnt = 0;
                 u8RxFlg = 0;
-                ClearRxData();
+                ClearRxData();                
 			}
+            else{
+                if(cnt++ > 0) {
+                    u8RxFlg = 0;
+                    ClearRxData();
+                }
+            }            
+
 		}
 		
-		delay1ms(10);
+		delay1ms(20);
 	}
 }
 
